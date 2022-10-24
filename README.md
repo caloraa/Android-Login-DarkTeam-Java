@@ -38,7 +38,7 @@
 
 ❏  ```Example Login 01```
 <p align="center">
-  <a href="https://github.com/caloraa/Android-Login-DarkTeam-Java"><img src="https://j.top4top.io/p_234909cbf9.jpg" />
+  <a href="https://github.com/caloraa/Android-Login-DarkTeam-Java"><img src="https://g.top4top.io/p_2488wxedy9.jpg" />
 </p>
 
 ------
@@ -47,14 +47,14 @@
 
 ❏  ```Example Login 02```
 <p align="center">
-  <a href="https://github.com/caloraa/Android-Login-DarkTeam-Java"><img src="https://k.top4top.io/p_2349dbhkk9.jpg" />
+  <a href="https://github.com/caloraa/Android-Login-DarkTeam-Java"><img src="https://b.top4top.io/p_2488fxdl79.jpg" />
 </p>
 
 ------
 
 ## Edit File
 ```ts
-> Add Your server in ( MainActivity.java )
+> Add Your server in ( main.cpp )
 
 ```
 ------
